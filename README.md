@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @claytonseverson
-- 👀 I’m interested in music
-- 🌱 I’m currently learning computer vision
-- 💞️ I’m looking to collaborate on open source projects in Healthcare
 - 📫 How to reach me is by sending me message.
 
 <!---
